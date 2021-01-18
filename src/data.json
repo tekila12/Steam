@@ -1,0 +1,656 @@
+[
+  {
+   
+    "freetoplay":[{
+    "id":"0",
+    "image": "/F2P/Smite.jpg",
+    "price" : "Free To Play",
+    "name" :"Smite" 
+    },
+  {
+    "id":"1",
+    "image":"/F2P/Brawhalla.jpg",
+    "price" : "Free To Play",
+    "name" :"Brawhalla" 
+   },
+
+   {
+    "id":"2",
+    "image": "/F2P/Destiny.jpg",
+    "price" : "Free To Play",
+    "name" :"Destiny" 
+   },
+   {
+    "id":"3",
+    "image": "/F2P/PathOfExile.jpg",
+    "price" : "Free To Play",
+    "name" :"Path of Exile" 
+  },
+
+  {
+    "id":"4",
+    "image": "/F2P/Runescape.jpg",
+    "price" : "Free To Play",
+    "name" :"Runescape" 
+  },
+
+  {
+    "id":"5",
+    "image": "/F2P/Warframe.jpg",
+    "price" : "Free To Play",
+    "name" :"Warframe" 
+  },
+  {
+    "id":"6",
+    "image": "/F2P/WarThunder.jpg",
+    "price" : "Free To Play",
+    "name" :"War Thunder" 
+  },
+  {
+    "id":"7",
+    "image": "/F2P/WorldOfWarships.jpg",
+    "price" : "Free To Play",
+    "name" :"World Of Warships" 
+  },
+  {
+    "id":"8",
+    "image": "/F2P/Yugi.jpg",
+    "price" : "Free To Play",
+    "name" :"Yu-Gi-Oh!" 
+  },
+  {
+    "id":"9",
+    "image": "/F2P/BloodOfSteal.jpg",
+    "price" : "Free To Play",
+    "name" :"Blood Of Stell" 
+  }
+],
+
+   "action":[{
+        "id":"10",
+        "image": "/action/Cyberpunk.jpg",
+        "price" : "59,90$",
+        "name" :"Cyberpunk" 
+        },
+    {
+        "id":"11",
+        "image": "/action/Yaga.jpg",
+        "price" : "12,59$",
+        "name" :"Yaga" 
+    },
+    {
+        "id":"12",
+        "image": "/action/AncientAbyss.jpg",
+        "price" : "11,24$",
+        "name" :"Ancient Abyss" 
+    },
+    {
+        "id":"13",
+        "image": "/action/RedDead.jpg",
+        "price" : "4,99$",
+        "name" :"Red Dead Online" 
+    },
+    {
+        "id":"14",
+        "image": "/action/Yakuza.jpg",
+        "price" : "59,99$",
+        "name" :"Yakuza" 
+    },
+    {
+        "id":"15",
+        "image": "/action/V.jpg",
+        "price" : "59,99$",
+        "name" :"Battlefield V" 
+    },
+    {
+        "id":"16",
+        "image": "/action/Empire.jpg",
+        "price" : "39,99$",
+        "name" :"Empire of Sin" 
+    },
+    {
+        "id":"17",
+        "image": "/action/Prodeus.jpg",
+        "price" : "24,99$",
+        "name" :"Prodeus" 
+    },
+
+    {
+        "id":"18",
+        "image": "/action/Revenger.jpg",
+        "price" : "2,39$",
+        "name" :"Revenger" 
+    },
+
+    {
+        "id":"19",
+        "image": "/action/Scoot.jpg",
+        "price" : "4,99$",
+        "name" :"Scoot" 
+    }   
+    ],
+
+    "adventure":[{
+        "id":"20",
+        "image": "/adventure/GTA.jpg",
+        "price" : "29,99$",
+        "name" :"GTA V" 
+        },
+        {
+        "id":"21",
+        "image": "/adventure/ScrollsV.jpg",
+        "price" : "19,99$",
+        "name" :"Elder Scrolls V " 
+        },
+        {
+        "id":"22",
+        "image": "/adventure/Raft.jpg",
+        "price" : "19,99$",
+        "name" :"Raft" 
+        },
+        {
+        "id":"23",
+        "image": "/adventure/Ark.jpg",
+        "price" : "54.99$",
+        "name" :"ARK" 
+        },
+
+        {
+        "id":"24",
+        "image": "/adventure/4.jpg",
+        "price" : "8,99$",
+        "name" :"Fallout 4" 
+        },
+
+        {
+        "id":"25",
+        "image": "/adventure/Cry5.jpg",
+        "price" : "11,99$",
+        "name" :"Far Cry 5" 
+        },
+        {
+        "id":"26",
+        "image": "/adventure/Half.jpg",
+        "price" : "49,99$",
+        "name" :"Half Life:Alyx" 
+        },
+
+        {
+        "id":"27",
+        "image": "/adventure/Mount.jpg",
+        "price" : "49,99$",
+        "name" :"Mount & Blade" 
+        },
+
+        {
+        "id":"28",
+        "image": "/adventure/Metro.jpg",
+        "price" : "39,99$",
+        "name" :"Metro Exodus" 
+        },
+        {
+        "id":"29",
+        "image": "/adventure/Souls.jpg",
+        "price" : "59,99$",
+        "name" :"Dark Souls III" 
+        }        
+    ],
+    "casual":[{
+      "id":"30",
+      "image": "/casual/FallGuys.jpg",
+      "price" : "19,99$",
+      "name" :"Fall Guys" 
+      },
+      {
+      "id":"31",
+      "image": "/casual/AmongUs.jpg",
+      "price" : "19,99$",
+      "name" :"Among Us" 
+      },
+      {
+      "id":"32",
+      "image": "/casual/City.jpg",
+      "price" : "27,99$",
+      "name" :"Skylines" 
+      },
+      {
+      "id":"33",
+      "image": "/casual/HouseFlipper.jpg",
+      "price" : "16,79$",
+      "name" :"HouseFlipper" 
+      },
+
+      {
+      "id":"34",
+      "image": "/casual/JumpForce.jpg",
+      "price" : "59,99$",
+      "name" :"Jump Force" 
+      },
+
+      {
+      "id":"35",
+      "image": "/casual/Plants.jpg",
+      "price" : "49,99$",
+      "name" :"Plants vs Zombies" 
+      },
+      {
+      "id":"36",
+      "image": "/casual/Spore.jpg",
+      "price" : "19,99$",
+      "name" :"Spore" 
+      },
+
+      {
+      "id":"37",
+      "image": "/casual/The Sims 4.jpg",
+      "price" : "39,99$",
+      "name" :"The Sims 4" 
+      },
+
+      {
+      "id":"38",
+      "image": "/casual/Train.jpg",
+      "price" : "29,99$",
+      "name" :"Train Simulator" 
+      },
+      {
+      "id":"39",
+      "image": "/casual/Uno.jpg",
+      "price" : "9,99$",
+      "name" :"Uno" 
+      }        
+  ],
+  "indie":[{
+    "id":"40",
+    "image": "/indie/omori.jpg",
+    "price" : "16,79$",
+    "name" :"Omori" 
+    },
+    {
+    "id":"41",
+    "image": "/indie/bermuda.jpg",
+    "price" : "10,07$",
+    "name" :"Down in Bermuda" 
+    },
+    {
+    "id":"42",
+    "image": "/indie/dev.jpg",
+    "price" : "27,99$",
+    "name" :"Undead Development" 
+    },
+    {
+    "id":"43",
+    "image": "/indie/ratropolis.jpg",
+    "price" : "14,99$",
+    "name" :"Ratropolis" 
+    },
+    {
+    "id":"44",
+    "image": "/indie/phasm.jpg",
+    "price" : "11,59$",
+    "name" :"Phasmophobia" 
+    },
+
+    {
+    "id":"45",
+    "image": "/indie/tale.jpg",
+    "price" : "4$",
+    "name" :"Undertale" 
+    },
+    {
+    "id":"46",
+    "image": "/indie/Terraria.jpg",
+    "price" : "9,99$",
+    "name" :"Terraria" 
+    },
+
+    {
+    "id":"47",
+    "image": "/indie/brawhalla.jpg",
+    "price" : "39,99$",
+    "name" :"Brawlhalla" 
+    },
+
+    {
+    "id":"48",
+    "image": "/indie/Knight.jpg",
+    "price" : "14,99$",
+    "name" :"Hollow Knight" 
+    },
+    {
+    "id":"49",
+    "image": "/indie/Scum.jpg",
+    "price" : "24,99$",
+    "name" :"Scum" 
+    }        
+],
+"multi":[{
+  "id":"50",
+  "image": "/multi/Z.jpg",
+  "price" : "39,99$",
+  "name" :"DayZ" 
+  },
+  {
+  "id":"51",
+  "image": "/multi/hell.jpg",
+  "price" : "29,99$",
+  "name" :"Hell Let Loose" 
+  },
+  {
+  "id":"52",
+  "image": "/multi/Fantasy.jpg",
+  "price" : "9,99$",
+  "name" :"Final Fantasy XIV" 
+  },
+  {
+  "id":"53",
+  "image": "/multi/crew.jpg",
+  "price" : "9,99$",
+  "name" :"Crew 2" 
+  },
+  {
+  "id":"54",
+  "image": "/multi/black.jpg",
+  "price" : "39,99$",
+  "name" :"Black Desert" 
+  },
+
+  {
+  "id":"55",
+  "image": "/multi/dead.jpg",
+  "price" : "16,79$",
+  "name" :"Deadside" 
+  },
+  {
+  "id":"56",
+  "image": "/multi/elite.jpg",
+  "price" : "24,99$",
+  "name" :"Elite Dangerous" 
+  },
+
+  {
+  "id":"57",
+  "image": "/multi/war.jpg",
+  "price" : "29,99$",
+  "name" :"War Robots" 
+  },
+
+  {
+  "id":"58",
+  "image": "/multi/wire.jpg",
+  "price" : "14,99$",
+  "name" :"Beyond the Wire" 
+  },
+  {
+  "id":"59",
+  "image": "/multi/atlas.jpg",
+  "price" : "24,99$",
+  "name" :"Atlas" 
+  }        
+],
+"racing":[{
+  "id":"60",
+  "image": "/racing/dirt.jpg",
+  "price" : "54,99$",
+  "name" :"Dirt 5" 
+  },
+  {
+  "id":"61",
+  "image": "/racing/ragna.jpg",
+  "price" : "16,73$",
+  "name" :"Ragnarock" 
+  },
+  {
+  "id":"62",
+  "image": "/racing/heat.jpg",
+  "price" : "20,99$",
+  "name" :"Need for Speed Heat" 
+  },
+  {
+  "id":"63",
+  "image": "/racing/i.jpg",
+  "price" : "10,99$",
+  "name" :"iRacing" 
+  },
+  {
+  "id":"64",
+  "image": "/racing/rally.jpg",
+  "price" : "19,99$",
+  "name" :"DiRT Rally" 
+  },
+
+  {
+  "id":"65",
+  "image": "/racing/trail.jpg",
+  "price" : "11,97$",
+  "name" :"Trailmakers" 
+  },
+  {
+  "id":"66",
+  "image": "/racing/project.jpg",
+  "price" : "59,99$",
+  "name" :"Project CARS 2" 
+  },
+
+  {
+  "id":"67",
+  "image": "/racing/steep.jpg",
+  "price" : "29,99$",
+  "name" :"Steep" 
+  },
+
+  {
+  "id":"68",
+  "image": "/racing/r.jpg",
+  "price" : "14,99$",
+  "name" :"rFactor" 
+  },
+  {
+  "id":"69",
+  "image": "/racing/mud.jpg",
+  "price" : "24,99$",
+  "name" :"MudRunner" 
+  }        
+],
+
+"sim":[{
+  "id":"70",
+  "image": "/sim/luck.jpg",
+  "price" : "8,19$",
+  "name" :"Luck be a Landlord" 
+  },
+  {
+  "id":"71",
+  "image": "/sim/wing.jpg",
+  "price" : "24,99$",
+  "name" :"Project Wingman" 
+  },
+  {
+  "id":"72",
+  "image": "/sim/creeper.jpg",
+  "price" : "20,99$",
+  "name" :"Creeper World 4" 
+  },
+  {
+  "id":"73",
+  "image": "/sim/teardown.jpg",
+  "price" : "19,99$",
+  "name" :"Teardown" 
+  },
+  {
+  "id":"74",
+  "image": "/sim/doom.jpg",
+  "price" : "16,79$",
+  "name" :"Doomsday Room" 
+  },
+
+  {
+  "id":"75",
+  "image": "/sim/left.jpg",
+  "price" : "12,49$",
+  "name" :"What's left behind" 
+  },
+  {
+  "id":"76",
+  "image": "/sim/golf.jpg",
+  "price" : "3,99$",
+  "name" :"Golf Around" 
+  },
+
+  {
+  "id":"77",
+  "image": "/sim/plan.jpg",
+  "price" : "4,16$",
+  "name" :"Planeta" 
+  },
+
+  {
+  "id":"78",
+  "image": "/sim/sky.jpg",
+  "price" : "22,99$",
+  "name" :"Sky Heaven" 
+  },
+  {
+  "id":"79",
+  "image": "/sim/war.jpg",
+  "price" : "24,99$",
+  "name" :"War Room" 
+  }        
+],
+
+"sport":[{
+  "id":"80",
+  "image": "/sport/mana.jpg",
+  "price" : "54,99$",
+  "name" :"Football Manager" 
+  },
+  {
+  "id":"81",
+  "image": "/sport/fort.jpg",
+  "price" : "8,19$",
+  "name" :"Fortress V2" 
+  },
+  {
+  "id":"82",
+  "image": "/sport/poker.jpg",
+  "price" : "24,99$",
+  "name" :"Poker Club" 
+  },
+  {
+  "id":"83",
+  "image": "/sport/gym.jpg",
+  "price" : "12,49$",
+  "name" :"Gym Tycoon" 
+  },
+  {
+  "id":"84",
+  "image": "/sport/street.jpg",
+  "price" : "8,19$",
+  "name" :"ArrowBall" 
+  },
+
+  {
+  "id":"85",
+  "image": "/sport/cricket.jpg",
+  "price" : "25,58$",
+  "name" :"IB Cricket" 
+  },
+  {
+  "id":"86",
+  "image": "/sport/fifa.jpg",
+  "price" : "59,99$",
+  "name" :"Fifa 21" 
+  },
+
+  {
+  "id":"87",
+  "image": "/sport/hand.jpg",
+  "price" : "4,16$",
+  "name" :"HandBall 21" 
+  },
+
+  {
+  "id":"88",
+  "image": "/sport/club.jpg",
+  "price" : "6,59$",
+  "name" :"Brutality club" 
+  },
+  {
+  "id":"89",
+  "image": "/sport/cyber.jpg",
+  "price" : "24,99$",
+  "name" :"Cybershift" 
+  }        
+],
+"strat":[{
+  "id":"90",
+  "image": "/strat/Iron Conflict.jpg",
+  "price" : "12,99$",
+  "name" :"Iron Conflict" 
+  },
+  {
+  "id":"91",
+  "image": "/strat/monster.jpg",
+  "price" : "8,19$",
+  "name" :"Monster Sanctuary" 
+  },
+  {
+  "id":"92",
+  "image": "/strat/Due Process.jpg",
+  "price" : "20,99$",
+  "name" :"Due Process" 
+  },
+  {
+  "id":"93",
+  "image": "/strat/pretend.jpg",
+  "price" : "12,49$",
+  "name" :"Pretend" 
+  },
+  {
+  "id":"94",
+  "image": "/strat/cities.jpg",
+  "price" : "39,99$",
+  "name" :"Ancient Cities" 
+  },
+
+  {
+  "id":"95",
+  "image": "/strat/kingdoms.jpg",
+  "price" : "18,99$",
+  "name" :"Kingdoms Reborn" 
+  },
+
+  {
+  "id":"96",
+  "image": "/strat/witch.jpg",
+  "price" : "29,99$",
+  "name" :"Witch it" 
+  },
+
+  {
+  "id":"97",
+  "image": "/strat/zombie.jpg",
+  "price" : "3,96$",
+  "name" :"Zombie Defense" 
+  },
+
+  {
+  "id":"98",
+  "image": "/strat/star.jpg",
+  "price" : "20,99$",
+  "name" :"Spaceships" 
+  },
+  {
+  "id":"99",
+  "image": "/strat/tribal.jpg",
+  "price" : "24,99$",
+  "name" :"Tribal Wars" 
+  }        
+]
+  }
+ ]
+
+
+
+
+
