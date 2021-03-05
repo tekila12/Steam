@@ -1,0 +1,140 @@
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.slideShow {
+  position: relative;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  opacity: 1;
+  transition-duration: s ease;
+}
+.thumbnail {
+  cursor: pointer;
+}
+.activeSlide {
+  border: 2px solid cyan;
+  transform: scale(1.2);
+  -webkit-animation: swing-in-left-bck 2s
+    cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
+  animation: swing-in-left-bck 2s cubic-bezier(0.175, 0.885, 0.32, 1.275) both;
+}
+
+.slide__img {
+  max-width: 610px;
+  height: 300px;
+  object-fit: contain;
+}
+
+svg {
+  cursor: pointer;
+}
+
+@-webkit-keyframes swing-in-left-bck {
+  0% {
+    -webkit-transform: rotateY(-70deg);
+    transform: rotateY(-70deg);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: rotateY(0);
+    transform: rotateY(0);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    opacity: 1;
+  }
+}
+@keyframes swing-in-left-bck {
+  0% {
+    -webkit-transform: rotateY(-70deg);
+    transform: rotateY(-70deg);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: rotateY(0);
+    transform: rotateY(0);
+    -webkit-transform-origin: left;
+    transform-origin: left;
+    opacity: 1;
+  }
+}
+
+.actions {
+  position: absolute;
+  top: 35%;
+  width: -moz-available;
+  width: -webkit-fill-available;
+  display: flex;
+  justify-content: space-between;
+}
+
+@media all and (max-width: 670px) {
+  .slideShow > img {
+    max-width: 400px;
+    height: 200px;
+  }
+  .actions {
+    width: 400px;
+    top: 80px;
+  }
+
+  svg {
+    height: 25px !important;
+    width: 25px !important;
+  }
+}
+
+@media all and (max-width: 538px) {
+  .actions {
+    top: 26%;
+  }
+}
+@media all and (max-width: 402px) {
+  .slideShow > img {
+    width: 320px;
+    height: 200px;
+  }
+
+  .actions {
+    width: 320px;
+  }
+}
+
+@media all and (max-width: 320px) {
+  .actions {
+    width: 321px;
+    top: 80px;
+  }
+  svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+}
+
+@media all and (min-width: 1950px) {
+  .slideShow > img {
+    max-width: 1000px;
+    height: 400px;
+  }
+
+  .actions {
+    width: 857px;
+    top: 39%;
+  }
+
+  svg {
+    width: 50px !important;
+    height: 50px !important;
+  }
+
+  .thumbnail > img {
+    height: 70px;
+  }
+}
