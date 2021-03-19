@@ -20,8 +20,7 @@ function FreeToPlay() {
                  <h3>Game not found</h3>
                </div>   
                )}     
-            {data[0].freetoplay.filter(filterProduct).map((product) => {             
-                      
+            {data[0].freetoplay.filter(filterProduct).map((product) => {                           
               return (
                 <div className='f2p' key={product.id}>                      
                     <img alt="product" src={product.image}></img>
