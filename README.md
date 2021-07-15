@@ -4,5 +4,6 @@ Database for this project was manually created via json file, so it is not using
 This project has\:
 - Search funcionality 
 - SlideShow with thumbnail included
-- There is a 'Payment funcionality' which was created by passing state through React-Router 
-Here is the deployed version of the app
+- There is a 'Payment funcionality' which was created by passing state through React-Router\
+Here is the deployed version of the app https://steam3321.netlify.app/
+
